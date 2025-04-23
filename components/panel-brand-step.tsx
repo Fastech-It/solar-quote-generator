@@ -9,7 +9,7 @@ type PanelBrand = { name: string; pricePerWatt: number; wattage: number }
 
 const panelBrands: PanelBrand[] = [
   { name: "Canadian / Jinko 585W", pricePerWatt: 31, wattage: 585 },
-  { name: "Longi Nimo x7 615W", pricePerWatt: 31, wattage: 615 },
+  { name: "Longi Himo x7 615W", pricePerWatt: 31, wattage: 615 },
   { name: "JA / Astro / Kingdom 585W", pricePerWatt: 29, wattage: 585 },
 ]
 
